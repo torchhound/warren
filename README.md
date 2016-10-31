@@ -1,12 +1,21 @@
 # Warren
 
-A curated list of interesting and deep corners of the internet to explore. Many links will excite others may offend. Who knows, you might even learn something.  Happy spelunking!
+A curated list of interesting and deep corners of the internet to explore. Many links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
 
 ## Blogs
 
 - [Slate Star Codex](http://slatestarcodex.com)
 - [Less Wrong](http://lesswrong.com/)
 - [Ribbonfarm](http://www.ribbonfarm.com/)
+- [Unqualified Reservations](http://unqualified-reservations.blogspot.co.uk/)
+- [Internetkhole](http://internetkholeblog.tumblr.com/)
+- [27bslash6](http://www.27bslash6.com/)
+- [Damn Interesting](https://www.damninteresting.com/)
+- [Hackaday](http://hackaday.com/)
+- [Thomas Morris](http://www.thomas-morris.uk/)
+- [Jim's Blog](http://blog.jim.com/)
+- [fUSION Anomalog](http://fusionanomaly.net/anomalog2/)
+- [Getting Stronger](http://gettingstronger.org/about-this-blog/)
 
 ## Github Repos
 
@@ -46,21 +55,34 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 - [Fusionanomaly - nodebase](http://www.fusionanomaly.net/nodebase.html)
 - [Ishkurs Guide to Electronic Music](http://techno.org/electronic-music-guide/)
 - [Metacademy](https://metacademy.org/)
+- [Pilgrim](https://pilgrim.are.na/)
+- [Orion's Arm](http://www.orionsarm.com/)
+- [Ulillillillia.us](http://www.ulillillia.us/sitemap.shtml)
+- [Sam's Laser FAQ](http://www.repairfaq.org/sam/lasersam.htm)
+- [Everything2](http://everything2.com/)
+- [gCaptain](https://gcaptain.com/)
+- [TVTropes](http://www.tvtropes.org)
+- [SCP](http://www.scp-wiki.net)
+- [Cryptome](https://cryptome.org/)
 
 ## Wikipedia - The classic rabbit hole
 
 - [Early Neolithic Settlements](https://en.wikipedia.org/wiki/Neolithic#Early_settlements)
 - [The Great Leap Forward](https://en.wikipedia.org/wiki/Great_Leap_Forward)
+- [List of Eponymous Laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 
 ## Talks
 
 - [Hacking Housing](https://www.youtube.com/watch?v=kiIBiV0UbLI)
 - [Exocortices](http://drwho.virtadpt.net/archive/2016-08-02/video-from-my-hope-xi-talk-is-now-online)
+- [CCC Media](https://media.ccc.de/)
+- [Internet Archive Hacker Conferences](https://archive.org/details/hackercons)
 
 ## Youtube
 
 - [C. G. P. Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder?app=desktop)
+- [ThisOldTony](https://www.youtube.com/user/featony/videos)
 
 ## Reddit
 
@@ -69,10 +91,23 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 ## Webcomics
 
 - [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
-- [The Probablity Broach](http://www.bigheadpress.com/tpbtgn?page=0)
+- [The Probability Broach](http://www.bigheadpress.com/tpbtgn?page=0)
 - [Lamezine 001 - Microwave Planet](http://lamezone.net/lz1.html)
+- [The Trenches](http://trenchescomic.com/)
+- [xkcd](http://xkcd.com/)
+
+## File Collections
+
+- [Survival Library](http://infidelbodyarmor.com/members/media/survival_library/)
+- [Pole Shift Survival](http://www.pssurvival.com/)
+- [The Gentoomen's Library](https://g.sicp.me/books/)
 
 ## Miscellaneous
 
 - [SDASM Archive](https://www.flickr.com/photos/sdasmarchives/)
 - [The Young Hitler I Knew](https://archive.org/details/TheYoungHitlerIKnew)
+- [Cognitive Bias Cheat Sheet](https://betterhumans.coach.me/cognitive-bias-cheat-sheet-55a472476b18#.95c3pyw6v)
+- [Worldmaking](https://www.are.na/damon-zucconi/worldmaking)
+- [The Toast Point Limerick Contest](http://toastpoint.wordandpicture.com/limerick/limerick.html)
+- [Hybrid Organizations](https://www.are.na/david-hilmer-rex/hybrid-organizations)
+- [The Ghost Not](http://www.datapacrat.com/Opinion/Reciprocality/r2/index.html)

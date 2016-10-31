@@ -4,7 +4,9 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 
 ## Blogs
 
-
+- [Slate Star Codex](http://slatestarcodex.com)
+- [Less Wrong](http://lesswrong.com/)
+- [Ribbonfarm](http://www.ribbonfarm.com/)
 
 ## Github Repos
 
@@ -30,3 +32,47 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 ## Websites
 
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
+- [Deoxy](deoxy.org)
+- [Bastard Operator from Hell](http://bofh.bjash.com/)
+- [WikiWikiWeb](http://wiki.c2.com/)
+- [MixesDB](http://www.mixesdb.com/w/Main_Page)
+- [Unicode 9.0 Character Code Charts](http://unicode.org/charts/)
+- [Drunk Men Work Here](http://drunkmenworkhere.org/archive)
+- [Erowid](https://www.erowid.org/)
+- [ICD10 Illustrated](http://www.icd10illustrated.com/)
+- [WorldCat](http://www.worldcat.org/)
+- [Web Searchlores](http://www.search.lores.eu/indexo.htm)
+- [Principia Cybernetica Project](http://pespmc1.vub.ac.be/)
+- [Fusionanomaly - nodebase](http://www.fusionanomaly.net/nodebase.html)
+- [Ishkurs Guide to Electronic Music](http://techno.org/electronic-music-guide/)
+- [Metacademy](https://metacademy.org/)
+
+## Wikipedia - The classic rabbit hole
+
+- [Early Neolithic Settlements](https://en.wikipedia.org/wiki/Neolithic#Early_settlements)
+- [The Great Leap Forward](https://en.wikipedia.org/wiki/Great_Leap_Forward)
+
+## Talks
+
+- [Hacking Housing](https://www.youtube.com/watch?v=kiIBiV0UbLI)
+- [Exocortices](http://drwho.virtadpt.net/archive/2016-08-02/video-from-my-hope-xi-talk-is-now-online)
+
+## Youtube
+
+- [C. G. P. Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
+- [Cody's Lab](https://www.youtube.com/user/theCodyReeder?app=desktop)
+
+## Reddit
+
+- [/r/nosleep](https://www.reddit.com/r/nosleep/)
+
+## Webcomics
+
+- [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
+- [The Probablity Broach](http://www.bigheadpress.com/tpbtgn?page=0)
+- [Lamezine 001 - Microwave Planet](http://lamezone.net/lz1.html)
+
+## Miscellaneous
+
+- [SDASM Archive](https://www.flickr.com/photos/sdasmarchives/)
+- [The Young Hitler I Knew](https://archive.org/details/TheYoungHitlerIKnew)

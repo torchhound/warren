@@ -1,6 +1,6 @@
 # Warren
 
-A curated list of interesting and deep corners of the internet to explore. Many links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
+A curated list of interesting and deep corners of the internet to explore. Some links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
 
 ## Blogs
 
@@ -16,6 +16,7 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 - [Jim's Blog](http://blog.jim.com/)
 - [fUSION Anomalog](http://fusionanomaly.net/anomalog2/)
 - [Getting Stronger](http://gettingstronger.org/about-this-blog/)
+- [Ran Prieur](http://www.ranprieur.com/)
 
 ## Github Repos
 
@@ -64,12 +65,23 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 - [TVTropes](http://www.tvtropes.org)
 - [SCP](http://www.scp-wiki.net)
 - [Cryptome](https://cryptome.org/)
+- [This Week's Finds in Mathematical Physics](http://math.ucr.edu/home/baez/twfcontents.html)
+- [The Reciprocality Project](http://www.datapacrat.com/Opinion/Reciprocality/)
+- [All The Tropes](https://allthetropes.org/wiki/Main_Page)
+- [Sporcle](http://www.sporcle.com)
+- [The Wanderers' Library](http://wanderers-library.wikidot.com/)
+- [Warhammer 40K Wiki](http://warhammer40k.wikia.com/wiki/Warhammer_40k_Wiki)
+- [Commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
 
 ## Wikipedia - The classic rabbit hole
 
 - [Early Neolithic Settlements](https://en.wikipedia.org/wiki/Neolithic#Early_settlements)
 - [The Great Leap Forward](https://en.wikipedia.org/wiki/Great_Leap_Forward)
 - [List of Eponymous Laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
+- [List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
+- [Lists of List of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [A Random Wikipedia Page](https://en.wikipedia.org/wiki/Special:Random)
+- [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
 
 ## Talks
 
@@ -83,6 +95,23 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 - [C. G. P. Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder?app=desktop)
 - [ThisOldTony](https://www.youtube.com/user/featony/videos)
+- [James Townsend and Son](https://www.youtube.com/user/jastownsendandson/featured)
+- [ITS Tactical](https://www.youtube.com/channel/UCk2SqzpY5c-eGScFMuqAitA)
+- [Engineering Explained](https://www.youtube.com/channel/UClqhvGmHcvWL9w3R48t9QXQ)
+- [Tom Scott](https://www.youtube.com/channel/UCBa659QWEk1AI4Tg--mrJ2A)
+- [Matt and Tom's Park Bench](https://www.youtube.com/channel/UCRUULstZRWS1lDvJBzHnkXA)
+- [Wendover Productions](https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ)
+- [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw)
+- [GreatScott!](https://www.youtube.com/channel/UC6mIxFTvXkWQVEHPsEdflzQ)
+- [AlternateHIstoryHub](https://www.youtube.com/channel/UClfEht64_NrzHf8Y0slKEjw)
+- [Steve1989 MREinfo](https://www.youtube.com/channel/UC2I6Et1JkidnnbWgJFiMeHA)
+- [Oddity Archive](https://www.youtube.com/user/OddityArchive/videos)
+- [Veritasium](https://www.youtube.com/channel/UCHnyfMqiRRG1u-2MsSQLbXA)
+- [Vsauce](https://www.youtube.com/channel/UC6nSFpj9HTCZ5t-N3Rm3-HA)
+- [Forgotten Weapons](https://www.youtube.com/channel/UCrfKGpvbEQXcbe68dzXgJuA)
+- [The Ben Heck Show](https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA)
+- [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)
+- [Matthias Wandel](https://www.youtube.com/user/Matthiaswandel?app=desktop)
 
 ## Reddit
 
@@ -110,4 +139,4 @@ A curated list of interesting and deep corners of the internet to explore. Many 
 - [Worldmaking](https://www.are.na/damon-zucconi/worldmaking)
 - [The Toast Point Limerick Contest](http://toastpoint.wordandpicture.com/limerick/limerick.html)
 - [Hybrid Organizations](https://www.are.na/david-hilmer-rex/hybrid-organizations)
-- [The Ghost Not](http://www.datapacrat.com/Opinion/Reciprocality/r2/index.html)
+- [Fictional Fashion](https://www.are.na/john-michael-boling/fictional-fashion)

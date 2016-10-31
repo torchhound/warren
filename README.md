@@ -17,6 +17,10 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [fUSION Anomalog](http://fusionanomaly.net/anomalog2/)
 - [Getting Stronger](http://gettingstronger.org/about-this-blog/)
 - [Ran Prieur](http://www.ranprieur.com/)
+- [The Last Psychiatrist](http://thelastpsychiatrist.com/)
+- [Eyesore of the Month](http://kunstler.com/writings/eyesore-of-the-month/)
+- [Bookforum](http://bookforum.com/blog/)
+- [drtenge](http://drtenge.com/)
 
 ## Github Repos
 
@@ -53,7 +57,6 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [WorldCat](http://www.worldcat.org/)
 - [Web Searchlores](http://www.search.lores.eu/indexo.htm)
 - [Principia Cybernetica Project](http://pespmc1.vub.ac.be/)
-- [Fusionanomaly - nodebase](http://www.fusionanomaly.net/nodebase.html)
 - [Ishkurs Guide to Electronic Music](http://techno.org/electronic-music-guide/)
 - [Metacademy](https://metacademy.org/)
 - [Pilgrim](https://pilgrim.are.na/)
@@ -70,18 +73,49 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [All The Tropes](https://allthetropes.org/wiki/Main_Page)
 - [Sporcle](http://www.sporcle.com)
 - [The Wanderers' Library](http://wanderers-library.wikidot.com/)
-- [Warhammer 40K Wiki](http://warhammer40k.wikia.com/wiki/Warhammer_40k_Wiki)
+- [Warhammer 40K Wiki](http://wh40k.lexicanum.com/wiki/Main_Page)
 - [Commandlinefu](http://www.commandlinefu.com/commands/browse/sort-by-votes)
+- [1d4chan](https://1d4chan.org/wiki/Main_Page)
+- [Edge](https://www.edge.org/)
+- [The Master Theorem](http://www.themastertheorem.com/)
+- [Practical Typography](http://practicaltypography.com/)
+- [Zero News Datapool](http://www.t0.or.at/texts.htm)
+- [Newsfeed.one](http://newsfeed.one/)
+- [Pinboard](https://pinboard.in/recent/)
+- [MathPages](http://www.mathpages.com/)
+- [Shadertoy](https://www.shadertoy.com/)
+- [Atomic Rockets](http://www.projectrho.com/public_html/rocket/)
+- [Worldbuilding Stack Exchange](http://worldbuilding.stackexchange.com/)
+- [Shorpy](http://www.shorpy.com/)
+- [Internet Archive](https://archive.org)
+- [Monoskop](https://monoskop.org/Monoskop)
+- [z0r](http://z0r.de/)
+- [Data Elixir](http://dataelixir.com/)
+- [aitrui](http://www.aitrui.com/)
+- [Folklore](http://www.folklore.org/)
+- [Meaningness](https://meaningness.com/)
+- [Geoguessr](https://geoguessr.com/)
+- [The Chronicles of George](https://www.chroniclesofgeorge.com/)
+- [BoardGameGeek](http://boardgamegeek.com/)
+- [Wait But Why](http://waitbutwhy.com/)
+- [Atlas Obscura](http://www.atlasobscura.com/)
+- [Shodan](https://www.shodan.io/explore)
 
 ## Wikipedia - The classic rabbit hole
 
-- [Early Neolithic Settlements](https://en.wikipedia.org/wiki/Neolithic#Early_settlements)
-- [The Great Leap Forward](https://en.wikipedia.org/wiki/Great_Leap_Forward)
 - [List of Eponymous Laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 - [List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
-- [Lists of List of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
+- [Lists of Lists of Lists](https://en.wikipedia.org/wiki/List_of_lists_of_lists)
 - [A Random Wikipedia Page](https://en.wikipedia.org/wiki/Special:Random)
 - [List of Paradoxes](https://en.wikipedia.org/wiki/List_of_paradoxes)
+- [World War II](https://en.wikipedia.org/wiki/World_War_II)
+- [List of Reported UFO Sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)
+- [Universe](https://en.wikipedia.org/wiki/Universe)
+- [Kardashev Scale](https://en.wikipedia.org/wiki/Kardashev_scale)
+- [Unusual Articles](https://en.wikipedia.org/wiki/Wikipedia:Unusual_articles)
+- [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
+- [Highway Revolts in the United States](https://en.wikipedia.org/wiki/Highway_revolts_in_the_United_States)
+- [List of Cognitive Biases](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 
 ## Talks
 
@@ -112,10 +146,13 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [The Ben Heck Show](https://www.youtube.com/channel/UChturLXwYxwTOf_5krs0qvA)
 - [exurb1a](https://www.youtube.com/channel/UCimiUgDLbi6P17BdaCZpVbg)
 - [Matthias Wandel](https://www.youtube.com/user/Matthiaswandel?app=desktop)
+- [Primitive Technology](https://www.youtube.com/channel/UCAL3JXZSzSm8AlZyD3nQdBA?app=desktop)
+- [standupmaths](https://www.youtube.com/user/standupmaths/videos)
 
 ## Reddit
 
 - [/r/nosleep](https://www.reddit.com/r/nosleep/)
+- [Let's make a list of artisan youtube channels](https://www.reddit.com/r/ArtisanVideos/comments/3v264a/meta_lets_make_a_list_of_artisan_youtube_channels/)
 
 ## Webcomics
 
@@ -140,3 +177,9 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [The Toast Point Limerick Contest](http://toastpoint.wordandpicture.com/limerick/limerick.html)
 - [Hybrid Organizations](https://www.are.na/david-hilmer-rex/hybrid-organizations)
 - [Fictional Fashion](https://www.are.na/john-michael-boling/fictional-fashion)
+- [An Introduction to Philosophy](http://www.qcc.cuny.edu/SocialSciences/ppecorino/INTRO_TEXT/CONTENTS.htm)
+- [USNRC Event Notification Reports](http://www.nrc.gov/reading-rm/doc-collections/event-status/event/)
+- [Unsong](http://unsongbook.com/)
+- [nodes](http://fusionanomaly.net/nodes.html)
+- [nodebase](http://www.fusionanomaly.net/nodebase.html)
+- [Glitch Pokemon](http://bulbapedia.bulbagarden.net/wiki/Glitch_Pok%C3%A9mon)

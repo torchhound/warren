@@ -2,6 +2,15 @@
 
 A curated list of interesting and deep corners of the internet to explore. Some links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
 
+
+## Open Academic Research
+
+- [ARXIV] https://arxiv.org/
+- [EconPapers] http://econpapers.repec.org/
+- [IDEAS] https://ideas.repec.org/
+- [SSRN](https://www.ssrn.com/)
+
+
 ## Blogs
 
 - [Slate Star Codex](http://slatestarcodex.com)
@@ -30,7 +39,6 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Timecube.com Archive](https://wayback.archive.org/web/20160112000701/http://www.timecube.com/)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
 - [/sci/ Guide](https://sites.google.com/site/scienceandmathguide/)
-- [SSRN](https://www.ssrn.com/en/)
 - [Things of Interest](https://qntm.org/)
 - [The Archdruid Report](http://thearchdruidreport.blogspot.com/)
 

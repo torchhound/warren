@@ -5,9 +5,9 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ## Open Academic Research
 
-- [ARXIV] https://arxiv.org/
-- [EconPapers] http://econpapers.repec.org/
-- [IDEAS] https://ideas.repec.org/
+- [ARXIV](https://arxiv.org/)
+- [EconPapers](http://econpapers.repec.org/)
+- [IDEAS](https://ideas.repec.org/)
 - [SSRN](https://www.ssrn.com/)
 
 
@@ -66,7 +66,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 ## Websites
 
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
-- [Deoxy](deoxy.org)
+- [Deoxy](http://deoxy.org/)
 - [Bastard Operator from Hell](http://bofh.bjash.com/)
 - [WikiWikiWeb](http://wiki.c2.com/)
 - [MixesDB](http://www.mixesdb.com/w/Main_Page)

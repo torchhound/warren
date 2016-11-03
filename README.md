@@ -44,7 +44,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 
 ## Github Repos
 
-- [Another collection of interesting links](https://github.com/mrdrozdov/rabbit-holes)
+- [Another Collection of Interesting Links](https://github.com/mrdrozdov/rabbit-holes)
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer)
 - [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - [Awesome Pentest](https://github.com/enaqx/awesome-pentest)
@@ -62,6 +62,11 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [The Art of the Command Line](https://github.com/jlevy/the-art-of-command-line)
 - [Awesome Python](https://github.com/vinta/awesome-python)
 - [Alternative Internet](https://github.com/redecentralize/alternative-internet)
+- [GitScience](https://github.com/Hunter-Github/GitScience)
+- [Awesome Space Books](https://github.com/Hunter-Github/awesome-space-books)
+- [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
+- [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome](https://github.com/sindresorhus/awesome)
 
 ## Websites
 

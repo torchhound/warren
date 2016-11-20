@@ -41,6 +41,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [/sci/ Guide](https://sites.google.com/site/scienceandmathguide/)
 - [Things of Interest](https://qntm.org/)
 - [The Archdruid Report](http://thearchdruidreport.blogspot.com/)
+- [Storming the Ivory Tower](http://stormingtheivorytower.blogspot.com/)
 
 ## Github Repos
 
@@ -163,6 +164,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Air Vectors](http://www.airvectors.net/)
 - [Arts & Letters Daily](http://aldaily.com/)
 - [geograph](http://www.geograph.org.uk/)
+- [Hotel XVR27](http://www.com-www.com/)
 
 ## Wikipedia - The classic rabbit hole
 
@@ -266,3 +268,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Freeman's Mind](http://www.accursedfarms.com/movies/fm/)
 - [okmij](http://okmij.org/ftp/)
 - [Yuppie Dystopia](https://www.are.na/nick-demarco/yuppie-dystopia)
+- [A collection of websites for lifelong learning](https://medium.com/the-mission/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e#.ow3jh4wkh)

@@ -10,7 +10,6 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [IDEAS](https://ideas.repec.org/)
 - [SSRN](https://www.ssrn.com/)
 
-
 ## Blogs
 
 - [Slate Star Codex](http://slatestarcodex.com)
@@ -165,6 +164,25 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Arts & Letters Daily](http://aldaily.com/)
 - [geograph](http://www.geograph.org.uk/)
 - [Hotel XVR27](http://www.com-www.com/)
+- [Docs Populi](http://www.docspopuli.org/)
+- [GBPPR](http://www.qsl.net/n9zia/)
+- [Rhizome](http://rhizome.org/)
+- [Allchans](http://allchans.org/)
+- [oldskoolphreak](http://www.oldskoolphreak.com/)
+- [Muckrock](https://www.muckrock.com/)
+- [The Black Vault](http://www.theblackvault.com/)
+- [longecity](http://www.longecity.org/forum/)
+- [PRISMBREAK](https://prism-break.org/en/)
+- [psychogeophysics](http://www.psychogeophysics.org/wiki/doku.php)
+- [geacron](http://geacron.com/home-en/?&sid=GeaCron163192)
+- [unfiction](http://www.unfiction.com/)
+- [ludocity](http://ludocity.org/wiki/Main_Page)
+- [sorting.at](http://sorting.at/)
+- [Anarplex](https://anarplex.net/)
+- [visualgo](https://visualgo.net/)
+- [Arbital](https://arbital.com/)
+- [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html)
+- [Beyond Cyberpunk](http://www.streettech.com/bcp/)
 
 ## Wikipedia - The classic rabbit hole
 
@@ -241,6 +259,9 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Survival Library](http://infidelbodyarmor.com/members/media/survival_library/)
 - [Pole Shift Survival](http://www.pssurvival.com/)
 - [The Gentoomen's Library](https://g.sicp.me/books/)
+- [Murdercube](https://murdercube.com/files/)
+- [Anonymous FTP Sites](http://www.ftp-sites.org/)
+- [Liberated Manuals](http://www.liberatedmanuals.com/)
 
 ## Miscellaneous
 
@@ -269,3 +290,5 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [okmij](http://okmij.org/ftp/)
 - [Yuppie Dystopia](https://www.are.na/nick-demarco/yuppie-dystopia)
 - [A collection of websites for lifelong learning](https://medium.com/the-mission/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e#.ow3jh4wkh)
+- [Shovel AK](http://www.northeastshooters.com/vbulletin/threads/179192-DIY-Shovel-AK-photo-tsunami-warning)
+- [astrobooks](http://astrobooks.com/)

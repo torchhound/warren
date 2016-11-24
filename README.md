@@ -2,15 +2,28 @@
 
 A curated list of interesting and deep corners of the internet to explore. Some links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
 
+## Table of Contents
 
-## Open Academic Research
+- [Open Academic Research](https://github.com/torchhound/warren#Open-Academic-Research)
+- [Blogs](https://github.com/torchhound/warren#Blogs)
+- [Github Repositories](https://github.com/torchhound/warren#Github-Repos)
+- [Websites](https://github.com/torchhound/warren#Websites)
+- [Wikipedia](https://github.com/torchhound/warren#Wikipedia)
+- [Talks](https://github.com/torchhound/warren#Talks)
+- [Youtube](https://github.com/torchhound/warren#Youtube)
+- [Reddit](https://github.com/torchhound/warren#Reddit)
+- [Webcomics](https://github.com/torchhound/warren#Webcomics)
+- [File Collections](https://github.com/torchhound/warren#File-Collections)
+- [Miscellaneous](https://github.com/torchhound/warren#Miscellaneous)
+
+# Open Academic Research
 
 - [ARXIV](https://arxiv.org/)
 - [EconPapers](http://econpapers.repec.org/)
 - [IDEAS](https://ideas.repec.org/)
 - [SSRN](https://www.ssrn.com/)
 
-## Blogs
+# Blogs
 
 - [Slate Star Codex](http://slatestarcodex.com)
 - [Less Wrong](http://lesswrong.com/)
@@ -37,12 +50,11 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Brain Pickings](https://www.brainpickings.org/)
 - [Timecube.com Archive](https://wayback.archive.org/web/20160112000701/http://www.timecube.com/)
 - [nLab](https://ncatlab.org/nlab/show/HomePage)
-- [/sci/ Guide](https://sites.google.com/site/scienceandmathguide/)
 - [Things of Interest](https://qntm.org/)
 - [The Archdruid Report](http://thearchdruidreport.blogspot.com/)
 - [Storming the Ivory Tower](http://stormingtheivorytower.blogspot.com/)
 
-## Github Repos
+# Github Repos
 
 - [Another Collection of Interesting Links](https://github.com/mrdrozdov/rabbit-holes)
 - [The Remote Freelancer](https://github.com/engineerapart/TheRemoteFreelancer)
@@ -68,7 +80,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome](https://github.com/sindresorhus/awesome)
 
-## Websites
+# Websites
 
 - [Learn X in Y Minutes](https://learnxinyminutes.com)
 - [Deoxy](http://deoxy.org/)
@@ -183,8 +195,9 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Arbital](https://arbital.com/)
 - [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html)
 - [Beyond Cyberpunk](http://www.streettech.com/bcp/)
+- [/sci/ Guide](https://sites.google.com/site/scienceandmathguide/)
 
-## Wikipedia - The classic rabbit hole
+# Wikipedia
 
 - [List of Eponymous Laws](https://en.wikipedia.org/wiki/List_of_eponymous_laws)
 - [List of Emerging Technologies](https://en.wikipedia.org/wiki/List_of_emerging_technologies)
@@ -200,14 +213,14 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Highway Revolts in the United States](https://en.wikipedia.org/wiki/Highway_revolts_in_the_United_States)
 - [List of Cognitive Biases](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
 
-## Talks
+# Talks
 
 - [Hacking Housing](https://www.youtube.com/watch?v=kiIBiV0UbLI)
 - [Exocortices](http://drwho.virtadpt.net/archive/2016-08-02/video-from-my-hope-xi-talk-is-now-online)
 - [CCC Media](https://media.ccc.de/)
 - [Internet Archive Hacker Conferences](https://archive.org/details/hackercons)
 
-## Youtube
+# Youtube
 
 - [C. G. P. Grey](https://www.youtube.com/channel/UC2C_jShtL725hvbm1arSV9w)
 - [Cody's Lab](https://www.youtube.com/user/theCodyReeder?app=desktop)
@@ -235,7 +248,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Applied Science](https://www.youtube.com/user/bkraz333?app=desktop)
 - [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
 
-## Reddit
+# Reddit
 
 - [/r/nosleep](https://www.reddit.com/r/nosleep/)
 - [Let's make a list of artisan youtube channels](https://www.reddit.com/r/ArtisanVideos/comments/3v264a/meta_lets_make_a_list_of_artisan_youtube_channels/)
@@ -245,7 +258,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [/r/LEGO](https://www.reddit.com/r/lego/)
 - [Top threads on /r/AskReddit](https://m.reddit.com/r/AskReddit/?sort=top&t=all)
 
-## Webcomics
+# Webcomics
 
 - [Saturday Morning Breakfast Cereal](http://www.smbc-comics.com/)
 - [The Probability Broach](http://www.bigheadpress.com/tpbtgn?page=0)
@@ -254,7 +267,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [xkcd](http://xkcd.com/)
 - [Homestuck](http://www.mspaintadventures.com/?s=6)
 
-## File Collections
+# File Collections
 
 - [Survival Library](http://infidelbodyarmor.com/members/media/survival_library/)
 - [Pole Shift Survival](http://www.pssurvival.com/)
@@ -263,7 +276,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Anonymous FTP Sites](http://www.ftp-sites.org/)
 - [Liberated Manuals](http://www.liberatedmanuals.com/)
 
-## Miscellaneous
+# Miscellaneous
 
 - [SDASM Archive](https://www.flickr.com/photos/sdasmarchives/)
 - [The Young Hitler I Knew](https://archive.org/details/TheYoungHitlerIKnew)

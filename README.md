@@ -2,19 +2,19 @@
 
 A curated list of interesting and deep corners of the internet to explore. Some links will excite, while others may offend. Who knows, you might even learn something.  Happy spelunking!
 
-## Table of Contents
+### Table of Contents
 
-- [Open Academic Research](https://github.com/torchhound/warren#Open-Academic-Research)
-- [Blogs](https://github.com/torchhound/warren#Blogs)
-- [Github Repositories](https://github.com/torchhound/warren#Github-Repos)
-- [Websites](https://github.com/torchhound/warren#Websites)
-- [Wikipedia](https://github.com/torchhound/warren#Wikipedia)
-- [Talks](https://github.com/torchhound/warren#Talks)
-- [Youtube](https://github.com/torchhound/warren#Youtube)
-- [Reddit](https://github.com/torchhound/warren#Reddit)
-- [Webcomics](https://github.com/torchhound/warren#Webcomics)
-- [File Collections](https://github.com/torchhound/warren#File-Collections)
-- [Miscellaneous](https://github.com/torchhound/warren#Miscellaneous)
+- [Open Academic Research](https://github.com/torchhound/warren#open-academic-research)
+- [Blogs](https://github.com/torchhound/warren#blogs)
+- [Github Repositories](https://github.com/torchhound/warren#github-repos)
+- [Websites](https://github.com/torchhound/warren#websites)
+- [Wikipedia](https://github.com/torchhound/warren#wikipedia)
+- [Talks](https://github.com/torchhound/warren#talks)
+- [Youtube](https://github.com/torchhound/warren#youtube)
+- [Reddit](https://github.com/torchhound/warren#reddit)
+- [Webcomics](https://github.com/torchhound/warren#webcomics)
+- [File Collections](https://github.com/torchhound/warren#file-collections)
+- [Miscellaneous](https://github.com/torchhound/warren#miscellaneous)
 
 # Open Academic Research
 

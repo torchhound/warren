@@ -2,7 +2,7 @@ import httplib2
 from BeautifulSoup import BeautifulSoup, SoupStrainer
 
 http = httplib2.Http()
-status, response = http.request("https://news.ycombinator.com/item?id=12778836")
+response = http.request("https://news.ycombinator.com/item?id=12778836")
 
 f = open("links.txt", "a")
 

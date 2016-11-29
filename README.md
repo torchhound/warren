@@ -196,6 +196,10 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html)
 - [Beyond Cyberpunk](http://www.streettech.com/bcp/)
 - [/sci/ Guide](https://sites.google.com/site/scienceandmathguide/)
+- [Theorem of the Day](http://www.theoremoftheday.org/Theorems.html)
+- [Instructables](http://www.instructables.com/)
+- [Fermat's Library](http://fermatslibrary.com/)
+- [Farmhack](http://farmhack.org/tools)
 
 # Wikipedia
 

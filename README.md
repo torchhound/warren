@@ -22,6 +22,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [EconPapers](http://econpapers.repec.org/)
 - [IDEAS](https://ideas.repec.org/)
 - [SSRN](https://www.ssrn.com/)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Blogs
 
@@ -53,6 +54,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Things of Interest](https://qntm.org/)
 - [The Archdruid Report](http://thearchdruidreport.blogspot.com/)
 - [Storming the Ivory Tower](http://stormingtheivorytower.blogspot.com/)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Github Repos
 
@@ -79,6 +81,8 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Awesome Awesome](https://github.com/emijrp/awesome-awesome)
 - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness)
 - [Awesome](https://github.com/sindresorhus/awesome)
+- [List of lists](https://github.com/jnv/lists)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Websites
 
@@ -200,6 +204,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Instructables](http://www.instructables.com/)
 - [Fermat's Library](http://fermatslibrary.com/)
 - [Farmhack](http://farmhack.org/tools)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Wikipedia
 
@@ -216,6 +221,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [List of Unsolved Problems in Physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics)
 - [Highway Revolts in the United States](https://en.wikipedia.org/wiki/Highway_revolts_in_the_United_States)
 - [List of Cognitive Biases](https://en.m.wikipedia.org/wiki/List_of_cognitive_biases)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Talks
 
@@ -223,6 +229,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Exocortices](http://drwho.virtadpt.net/archive/2016-08-02/video-from-my-hope-xi-talk-is-now-online)
 - [CCC Media](https://media.ccc.de/)
 - [Internet Archive Hacker Conferences](https://archive.org/details/hackercons)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Youtube
 
@@ -251,6 +258,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Sixty Symbols](https://www.youtube.com/channel/UCvBqzzvUBLCs8Y7Axb-jZew)
 - [Applied Science](https://www.youtube.com/user/bkraz333?app=desktop)
 - [Kurzgesagt](https://www.youtube.com/channel/UCsXVk37bltHxD1rDPwtNM8Q)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Reddit
 
@@ -261,6 +269,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [/r/WikiLeaks](https://www.reddit.com/r/WikiLeaks/)
 - [/r/LEGO](https://www.reddit.com/r/lego/)
 - [Top threads on /r/AskReddit](https://m.reddit.com/r/AskReddit/?sort=top&t=all)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Webcomics
 
@@ -270,6 +279,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [The Trenches](http://trenchescomic.com/)
 - [xkcd](http://xkcd.com/)
 - [Homestuck](http://www.mspaintadventures.com/?s=6)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # File Collections
 
@@ -279,6 +289,7 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Murdercube](https://murdercube.com/files/)
 - [Anonymous FTP Sites](http://www.ftp-sites.org/)
 - [Liberated Manuals](http://www.liberatedmanuals.com/)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
 # Miscellaneous
 
@@ -309,3 +320,4 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [A collection of websites for lifelong learning](https://medium.com/the-mission/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e#.ow3jh4wkh)
 - [Shovel AK](http://www.northeastshooters.com/vbulletin/threads/179192-DIY-Shovel-AK-photo-tsunami-warning)
 - [astrobooks](http://astrobooks.com/)
+[Back to Top](https://github.com/torchhound/warren#table-of-contents)

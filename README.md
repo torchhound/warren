@@ -55,6 +55,8 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Things of Interest](https://qntm.org/)
 - [The Archdruid Report](http://thearchdruidreport.blogspot.com/)
 - [Storming the Ivory Tower](http://stormingtheivorytower.blogspot.com/)
+- [Jacobite](https://jacobitemag.com)
+- [hackernoon](https://hackernoon.com)
 
 [Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
@@ -207,6 +209,10 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [Instructables](http://www.instructables.com/)
 - [Fermat's Library](http://fermatslibrary.com/)
 - [Farmhack](http://farmhack.org/tools)
+- [late.capital](http://late.capital/)
+- [Every Noise At Once](http://everynoise.com/engenremap.html)
+- [Infinite Jukebox](http://infinitejukebox.playlistmachinery.com/)
+- [Free Rice](http://freerice.com)
 
 [Back to Top](https://github.com/torchhound/warren#table-of-contents)
 
@@ -330,5 +336,6 @@ A curated list of interesting and deep corners of the internet to explore. Some 
 - [A collection of websites for lifelong learning](https://medium.com/the-mission/these-62-websites-will-make-you-incredibly-smarter-7eb89f122c2e#.ow3jh4wkh)
 - [Shovel AK](http://www.northeastshooters.com/vbulletin/threads/179192-DIY-Shovel-AK-photo-tsunami-warning)
 - [astrobooks](http://astrobooks.com/)
+- [The Dark Mountain Project](http://dark-mountain.net/)
 
 [Back to Top](https://github.com/torchhound/warren#table-of-contents)
